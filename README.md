@@ -9,6 +9,7 @@ List of papers: http://openaccess.thecvf.com/CVPR2020.py
 1. Download `X.tsv` and `labels.tsv`.
 2. Go to https://projector.tensorflow.org/
 3. Click on Load and upload files.
+4. Run t-SNE on default settings for ~1000 iterations
 
 ## To download papers and train
 Create a virtual env if you want to
